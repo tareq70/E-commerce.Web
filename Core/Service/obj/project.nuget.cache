@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZzAa0M9PO4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tareq Elsabagh\\source\\API\\E-commerce.Web\\Core\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tareq Elsabagh\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\Tareq Elsabagh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tareq Elsabagh\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tareq Elsabagh\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

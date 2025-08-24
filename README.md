@@ -25,6 +25,7 @@ This project follows **Clean Architecture** with **Onion Architecture** principl
 - **Infrastructure Layer** → Data persistence (EF Core, Redis, SQL Server).  
 - **API Layer** → Controllers, endpoints, authentication, and presentation logic.  
 
+```text
 ┌───────────────────┐
 │   Presentation    │  → ASP.NET Core 8 Web API
 └────────▲──────────┘
@@ -40,6 +41,7 @@ This project follows **Clean Architecture** with **Onion Architecture** principl
 ┌────────▼──────────┐
 │  Infrastructure   │  → EF Core, SQL Server, Redis
 └───────────────────┘
+```
 
 
 ## 🛠️ Technologies Used  

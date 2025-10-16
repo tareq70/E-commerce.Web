@@ -3,16 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Tareq Elsabagh\\source\\API\\E-commerce.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86C37E24-1E3B-64D5-B4DB-B45A88944594}|..\\Infrastructure\\Presentation\\Presentation.csproj|c:\\users\\tareq elsabagh\\source\\api\\infrastructure\\presentation\\controlles\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC243F7C-475C-E640-24F3-59101BA6029A}|..\\Core\\Domain Layer\\Domain Layer.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\domain layer\\contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{231DDC9C-9AB3-2334-FF7E-161C55220451}|..\\Core\\Service\\Service.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87CB7223-78A6-189C-217C-F9D9AB9E67C1}|..\\Core\\Service Abstraction\\Service Abstraction.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\service abstraction\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{231DDC9C-9AB3-2334-FF7E-161C55220451}|..\\Core\\Service\\Service.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\service\\specifications\\ordermodulespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87CB7223-78A6-189C-217C-F9D9AB9E67C1}|..\\Core\\Service Abstraction\\Service Abstraction.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\service abstraction\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{231DDC9C-9AB3-2334-FF7E-161C55220451}|..\\Core\\Service\\Service.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\service\\mapping files\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{231DDC9C-9AB3-2334-FF7E-161C55220451}|..\\Core\\Service\\Service.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\service\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231DDC9C-9AB3-2334-FF7E-161C55220451}|..\\Core\\Service\\Service.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\service\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAC02C4-A5CF-A540-44BC-5D5EE6F9F2E5}|..\\Infrastructure\\Presistence\\Presistence.csproj|c:\\users\\tareq elsabagh\\source\\api\\infrastructure\\presistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAC02C4-A5CF-A540-44BC-5D5EE6F9F2E5}|..\\Infrastructure\\Presistence\\Presistence.csproj|c:\\users\\tareq elsabagh\\source\\api\\infrastructure\\presistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C37E24-1E3B-64D5-B4DB-B45A88944594}|..\\Infrastructure\\Presentation\\Presentation.csproj|c:\\users\\tareq elsabagh\\source\\api\\infrastructure\\presentation\\controlles\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC243F7C-475C-E640-24F3-59101BA6029A}|..\\Core\\Domain Layer\\Domain Layer.csproj|c:\\users\\tareq elsabagh\\source\\api\\core\\domain layer\\contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,52 +45,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderModuleSpecification.cs",
-              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\Specifications\\OrderModuleSpecification.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Service\\Specifications\\OrderModuleSpecification.cs",
-              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\Specifications\\OrderModuleSpecification.cs",
-              "RelativeToolTip": "..\\Core\\Service\\Specifications\\OrderModuleSpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:08:02.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\Mapping Files\\OrderProfile.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Service\\Mapping Files\\OrderProfile.cs",
-              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\Mapping Files\\OrderProfile.cs",
-              "RelativeToolTip": "..\\Core\\Service\\Mapping Files\\OrderProfile.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:00:47.134Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Infrastructure\\Presentation\\Controlles\\OrderController.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Presentation\\Controlles\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Infrastructure\\Presentation\\Controlles\\OrderController.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Presentation\\Controlles\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Domain Layer\\Contract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Domain Layer\\Contract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Domain Layer\\Contract\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Core\\Domain Layer\\Contract\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:09:23.039Z",
+              "WhenOpened": "2025-10-13T00:37:04.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Service\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\ServiceManager.cs",
+              "RelativeToolTip": "..\\Core\\Service\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T00:35:11.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\OrderService.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Service\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\OrderService.cs",
-              "RelativeToolTip": "..\\Core\\Service\\OrderService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE4AAABmAAAAAAAAAA==",
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service Abstraction\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Service Abstraction\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service Abstraction\\IServiceManager.cs",
+              "RelativeToolTip": "..\\Core\\Service Abstraction\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:45:12.791Z"
+              "WhenOpened": "2025-10-13T00:35:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Infrastructure\\Presistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Presistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Infrastructure\\Presistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Presistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T00:34:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Domain Layer\\Contract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Domain Layer\\Contract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Domain Layer\\Contract\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Core\\Domain Layer\\Contract\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:01:55.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Infrastructure\\Presistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Presistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Infrastructure\\Presistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Presistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:01:00.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service Abstraction\\IProductServices.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Service Abstraction\\IProductServices.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service Abstraction\\IProductServices.cs",
+              "RelativeToolTip": "..\\Core\\Service Abstraction\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:00:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\ProductServices.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Service\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Core\\Service\\ProductServices.cs",
+              "RelativeToolTip": "..\\Core\\Service\\ProductServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:00:34.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tareq Elsabagh\\source\\API\\Infrastructure\\Presentation\\Controlles\\ProductsController.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Presentation\\Controlles\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Tareq Elsabagh\\source\\API\\Infrastructure\\Presentation\\Controlles\\ProductsController.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Presentation\\Controlles\\ProductsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:09:49.7Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

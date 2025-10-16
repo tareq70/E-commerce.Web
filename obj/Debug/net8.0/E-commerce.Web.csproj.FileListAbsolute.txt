@@ -179,3 +179,4 @@ C:\Users\Tareq Elsabagh\source\API\E-commerce.Web\obj\Debug\net8.0\rjimswa.dswa.
 C:\Users\Tareq Elsabagh\source\API\E-commerce.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Tareq Elsabagh\source\API\E-commerce.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 C:\Users\Tareq Elsabagh\source\API\E-commerce.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Tareq Elsabagh\source\API\E-commerce.Web\obj\Debug\net8.0\E-commerce.Web.sourcelink.json
